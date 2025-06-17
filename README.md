@@ -53,4 +53,6 @@ This guide is given only for educational and informational objectives. This cont
 
 
 
-Update:  16 June link is back up and running
+
+
+Update: Corrected broken authentication guide links
