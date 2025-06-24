@@ -59,4 +59,6 @@ This guide is given only for educational and informational objectives. This cont
 
 
 
-Update: Fixed broken links in documentation
+
+
+Update: Link is now responsive and functioning
